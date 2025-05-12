@@ -1,4 +1,4 @@
-## 👋 Hi, we're @TILab (University of Pittsburgh) 
+## 👋 Hi, we are the Translational Imaging Laboratory (TILab) at the University of Pittsburgh
 
 ![TILabPic2](https://github.com/user-attachments/assets/70e149fa-5327-4793-9887-998e87290ca1)
 
